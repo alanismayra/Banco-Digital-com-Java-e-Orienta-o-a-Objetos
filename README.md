@@ -1,7 +1,7 @@
 # 🏧Banco Digital com Java e POO
 </br>
 <p align="justify">
-Trata-se do sistema de um banco digital que disponibiliza a seus clientes dois tipos de contas (corrente e poupança). Dentre as funcionalidades estão as operações bancárias de depósito, saque e transferência entre contas da própria instituição. Como funcionalidades adicionais implementaram-se: interface com métodos das operações, método para imprimir extratos, método para mostrar lista de clientes do banco. Tecnologias utilizadas: IntelliJ IDEA, OpenJDK Azul Zulu v. 11.0.15, Online Markdown Editor Dillinger. 
+Trata-se do sistema de um banco digital que disponibiliza a seus clientes dois tipos de contas (corrente e poupança). Dentre as funcionalidades estão as operações bancárias de depósito, saque e transferência entre contas da própria instituição. Como funcionalidades adicionais implementaram-se: interface com métodos das operações, método para imprimir extratos, método para mostrar lista de clientes do banco. 
 </p>
 
 ---  
